@@ -1,14 +1,14 @@
 # DCKaraoke_Disc_Builder
 Scrivani DC KARAOKE CUSTOM DISC BUILDER - 20/06/2025 V1.0
 
-- Put your any type music video files in the selftitled folder
-- Start the process on the Build_Now.bat script
-- The script will:
-- 1) Convert each video to compatible format, so you wait for that
-- 2) Create an all-in-one Dreamcast CDI image that includes:
--    a) SEGAKARA official software, that enables the microphone
--    b) Gypplay for video execution with the converted videos
-- CDI will be created at script root
+Put your any type music video files in the selftitled folder
+Start the process on the Build_Now.bat script
+The script will:
+1) Convert each video to compatible format, so you wait for that
+2) Create an all-in-one Dreamcast CDI image that includes:
+a) SEGAKARA official software, that enables the microphone
+b) Gypplay for video execution with the converted videos
+CDI will be created at script root
 
 To a correct video sequence, rename your video files with numbers, like:
 01_video_a.mp4
